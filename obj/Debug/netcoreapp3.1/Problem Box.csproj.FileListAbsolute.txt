@@ -1,0 +1,167 @@
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\appsettings.json
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\libman.json
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Problem Box.StaticWebAssets.xml
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Problem Box.exe
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.csprojAssemblyReference.cache
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.AssemblyInfoInputs.cache
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.AssemblyInfo.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.RazorAssemblyInfo.cache
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.RazorAssemblyInfo.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.TagHelpers.input.cache
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.TagHelpers.output.cache
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.RazorCoreGenerate.cache
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.RazorTargetAssemblyInfo.cache
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.RazorTargetAssemblyInfo.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.csproj.CopyComplete
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\staticwebassets\Problem Box.StaticWebAssets.Manifest.cache
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\staticwebassets\Problem Box.StaticWebAssets.xml
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Problem Box.deps.json
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Problem Box.runtimeconfig.json
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Problem Box.runtimeconfig.dev.json
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Problem Box.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Problem Box.pdb
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Problem Box.Views.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Problem Box.Views.pdb
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.csproj.CoreCompileInputs.cache
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.Views.pdb
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.dll
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.pdb
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.genruntimeconfig.cache
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Home\Index.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Home\Privacy.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ViewImports.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ViewStart.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Home\_ViewImports.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\User\Views\Home\_ViewStart.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagories\Create.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagories\_ViewImports.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagories\_ViewStart.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagories\Index.cshtml.g.cs
