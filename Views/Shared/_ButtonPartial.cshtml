@@ -1,0 +1,11 @@
+﻿@model int
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <td style="width :150px ">
+        <div class="btn-group">
+            <a asp-action="Edit" asp-area="Admin" asp-route-id="@Model" class="btn btn-info"><i class="fas fa-edit"></i></a>
+            <a asp-action="Details" asp-area="Admin" asp-route-id="@Model" class="btn btn-success"><i class="fas fa-info-circle"></i></a>
+            <a asp-action="Delete" asp-area="Admin" asp-route-id="@Model" class="btn btn-warning"><i class="far fa-trash-alt"></i></a>
+
+        </div>
+    </td>

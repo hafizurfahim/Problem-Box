@@ -35,6 +35,7 @@ namespace Problem_Box.Areas.Admin.Controllers
             {
                 _db.problemCatagories.Add(problems);
                 await _db.SaveChangesAsync();
+                TempData["save"] = "Saved data.";
                 return RedirectToAction(nameof(Index));
 
             }
@@ -50,7 +51,11 @@ namespace Problem_Box.Areas.Admin.Controllers
                 return NotFound();
             }
             var catagoryId = _db.problemCatagories.Find(id);
-            return View();
+            if (catagoryId == null)
+            {
+                return NotFound();
+            }
+            return View(catagoryId);
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -60,7 +65,8 @@ namespace Problem_Box.Areas.Admin.Controllers
             {
                 _db.problemCatagories.Update (problems);
                 await _db.SaveChangesAsync();
-
+                TempData["edit"] = " Data Editted.";
+                return RedirectToAction(nameof(Index));
             }
 
             return View(problems);
@@ -73,7 +79,51 @@ namespace Problem_Box.Areas.Admin.Controllers
                 return NotFound();
             }
             var catagoryId = _db.problemCatagories.Find(id);
-            return View();
+            if (catagoryId == null)
+            {
+                return NotFound();
+            }
+            return View(catagoryId);
+        }
+        public IActionResult Delete(int ?id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+          
+            }
+            var catagoryId = _db.problemCatagories.Find(id);
+            if (catagoryId == null)
+            {
+                return NotFound();
+            }
+            return View(catagoryId);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Delete(int?id, ProblemCatagory problems)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+            if (id != problems.id)
+            {
+                return NotFound();
+            }
+            var problem = _db.problemCatagories.Find(id);
+            if (problem == null)
+            {
+                return NotFound();
+            }
+            if (ModelState.IsValid)
+            {
+                _db.Remove(problem);
+                await _db.SaveChangesAsync();
+                TempData["delete"] = "Data deleted.";
+                return RedirectToAction(nameof(Index));
+               
+            }
+            return View(problems);
         }
 
     }

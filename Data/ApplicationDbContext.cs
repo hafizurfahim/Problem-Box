@@ -15,6 +15,7 @@ namespace Problem_Box.Data
         {
            
         }
-        public DbSet<ProblemCatagory> problemCatagories { set; get; }
+        public DbSet<ProblemCatagory> problemCatagories {get; set;  }
+        public DbSet<Problems> problems { get; set; }
     }
 }

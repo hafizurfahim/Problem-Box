@@ -51,7 +51,6 @@ E:\C#\Problem Box\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 E:\C#\Problem Box\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\C#\Problem Box\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\C#\Problem Box\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.csprojAssemblyReference.cache
 E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.AssemblyInfoInputs.cache
 E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.AssemblyInfo.cs
 E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.RazorAssemblyInfo.cache
@@ -165,3 +164,8 @@ E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagor
 E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagories\_ViewImports.cshtml.g.cs
 E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagories\_ViewStart.cshtml.g.cs
 E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagories\Index.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Problem Box.csprojAssemblyReference.cache
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagories\Edit.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagories\Details.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagories\Delete.cshtml.g.cs
