@@ -11,19 +11,19 @@ namespace Problem_Box.Models
     {
         public int id { get; set; }
         [Required]
-        [Display(Name ="Complain Name")]
+        [Display(Name ="Problem Name")]
         
         public string complainName { get; set; }
     [Required]
-    [Display(Name ="Problem Duration Time")]
+    [Display(Name ="Problem Duration")]
         public string problemDuration { get; set; }
         [Required]
         [Display(Name ="Problem Description ")]
         public string problemDescription { get; set; }
-        [Display(Name ="If you want add any image ")]
+        [Display(Name ="Image ")]
         public string image { get; set; }
         [Required]
-        [Display(Name ="Is currently available this problem ?")]
+        [Display(Name =" Currently Available")]
        public bool isAvailable { get; set; }
         [Display(Name ="Problem Catagory")]
         public int problemCatagoryId { get; set; }

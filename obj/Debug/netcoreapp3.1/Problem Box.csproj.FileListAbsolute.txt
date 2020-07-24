@@ -169,3 +169,6 @@ E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagor
 E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ButtonPartial.cshtml.g.cs
 E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagories\Details.cshtml.g.cs
 E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProblemCatagories\Delete.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Problem\Index.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Problem\_ViewImports.cshtml.g.cs
+E:\C#\Problem Box\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Problem\_ViewStart.cshtml.g.cs

@@ -1,7 +1,88 @@
-﻿
-@{
-    ViewData["Title"] = "Index";
+﻿@using Problem_Box.Models;
+@model IEnumerable<Problems>
+
+@{ViewData["Title"] = "Index"; }
+
+<h2>Index</h2>
+<br />
+
+<div class="row">
+    <div class="col-6">
+        <h2>Complain Catagory List</h2>
+        <br />
+    </div>
+    <div class="col-6">
+        <a asp-action="Create" class="btn btn-outline-primary">&nbsp;<b> Create New Complain </b></a>
+    </div>
+    <div>
+        <table class="table table-striped border">
+            <tr class="table-info">
+                <th>
+                    @Html.DisplayNameFor(c => c.complainName)
+
+                </th>
+                <th>
+                    @Html.DisplayNameFor(c => c.problemDuration)
+
+                </th>
+                <th>
+                    @Html.DisplayNameFor(c => c.problemDescription)
+
+                </th>
+                <th>
+                    @Html.DisplayNameFor(c => c.isAvailable)
+
+                </th>
+                <th>
+                    @Html.DisplayNameFor(c => c.image)
+
+                </th>
+                <th>
+                    @Html.DisplayNameFor(c => c.problemCatagoryId)
+
+                </th>
+                <th></th>
+                <th></th>
+
+               
+
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.complainName</td>
+                    <td>@item.problemDuration</td>
+                    <td>@item.problemDescription</td>
+                    <td>@item.isAvailable</td>
+                    <td>@item.image</td>
+                    <td>@item.problemCatagoryId</td>
+                    //<td><partial name="_ButtonPartial" model="@item.id"> </td>
+                </tr>
+                
+
+            }
+
+        </table>
+    </div>
+
+</div>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css" />
+@section scripts{
+    <script src="//cdn.jsdelivr.net/npm/alertifyjs@1.11.2/build/alertify.min.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            var save = '@TempData["save"]'
+            if(save!='') {
+                alertify.success(save);
+            }
+            var edit = '@TempData["edit"]'
+            if(edit!='') {
+                alertify.success(edit);
+            }
+            var del = '@TempData["delete"]'
+            if (del!='') {
+                alertify.error(del);
+            }
+        })
+    </script>
 }
-
-<h1>Index</h1>
-
